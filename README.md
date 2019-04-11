@@ -15,7 +15,7 @@ A1.
        
        c. It prints the 10 Best players of the week when they write "END" at the nickname of the player.
 
-3. It repeats 1 and 2 for a period of 52 weeks and at the end it prints the scores and the names of the 10 
+3. Repeat 1 and 2 for a period of 52 weeks and at the end it prints the scores and the names of the 10 
 best players of that year.
 
 A2.
