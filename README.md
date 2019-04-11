@@ -21,5 +21,5 @@ best players of that year.
 
 A2.
 Create a Def that gets the 2 lists, the name and the score of the player and if the player has a better score 
-than one of  players in the list then he goes in that list and of course the last player gets kick out for the list
-to be 10 slots long.
+than one of  players in the list then he takes the place of that player in that list and of course the last
+player gets kick out for the list to be 10 slots long.
