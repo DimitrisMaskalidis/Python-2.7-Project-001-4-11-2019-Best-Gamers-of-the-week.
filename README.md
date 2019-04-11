@@ -1,5 +1,5 @@
 Python 2.7
-Project #001 4/11/2019 Best gamers of the week.
+Project #001 4/11/2019 Best players of the week.
  
 In an online game there are millions of players every day playing from all over the world
 you have to keep the 10 best players of the week the name and score that they have achieved
