@@ -2,8 +2,9 @@ Python 2.7
 Project #001 4/11/2019 Best players of the week.
  
 In an online game there are millions of players every day playing from all over the world
-you have to keep the 10 best players of the week the name and score that they have achieved
+you have to keep the 10 best players of the week their names and scores that they have achieved
 that week
+
 A1.
 1. Create 2 Lists with 10 slots one filled with " " and the other with 0.
 
