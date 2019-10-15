@@ -18,7 +18,7 @@ Lsort(Names,Scores);Lsort(YNames,YScores)
 for i in range(52):
     name=raw_input("Write Your NickName: ")
     while name!='END':
-        score=input("White Your Score: ")
+        score=input("Write Your Score: ")
         LeaderBoard(Names,Scores,name,score)
         name=raw_input("Write Your NickName: ")
     for i in range(10):    
